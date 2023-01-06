@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "start:development": "next dev",
+    "start:local": "next dev",
     "cypress:open": "cypress open",
     "test": "start-server-and-test dev 3000 cypress:open",
     "prettier-format": "prettier --write './**/*.{ts,tsx}'",
