@@ -1,3 +1,13 @@
+
+import React from "react";
 export default function Page() {
-  return <div className="text-center pt-60">index : 1</div>;
+  
+
+  return (
+    <>
+      <div className="text-center py-10">
+        <p>What is your name?</p>
+      </div>
+    </>
+  );
 }

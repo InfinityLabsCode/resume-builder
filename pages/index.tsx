@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Page from '../components';
-
 export default function Home() {
   return (
     <>
